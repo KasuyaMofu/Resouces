@@ -26,7 +26,7 @@ Skebにて依頼、納品いただいたもの。
 
 サムネ等で使用可能であれば、背景透過素材もいただけると嬉しいです！
 
-https://github.com/Moffu360/backyard/issues/10
+https://github.com/KasuyaMofu/backyard/issues/10
 ```
 
 #### イラスト
