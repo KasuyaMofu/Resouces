@@ -1,4 +1,4 @@
-## about sorano design さん
+## about: sorano design さん
 
 以下のサイトをご参照ください。
 
