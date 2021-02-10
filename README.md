@@ -9,6 +9,7 @@
 - ロゴ
   - sorano designさん [Illustrations/sorano_design](Illustrations/teltelhousi)
 - キャラクターイラスト
+  - たらら。さん [Illustrations/qootarara](Illustrations/qootarara)
   - てるてる法師さん [Illustrations/teltelhousi](Illustrations/teltelhousi)
 
 ## 各種アカウント
