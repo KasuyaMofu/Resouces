@@ -2,6 +2,15 @@
 
 糟屋もふの規約やリソースを配置するリポジトリです。
 
+## イラスト関係
+
+依頼して私のイラストを描いていただいた皆様の紹介と各作品、及びリンクです。
+
+- ロゴ
+  - sorano designさん [Illustrations/sorano_design](Illustrations/teltelhousi)
+- キャラクターイラスト
+  - てるてる法師さん [Illustrations/teltelhousi](Illustrations/teltelhousi)
+
 ## 各種アカウント
 
 以下に記載するものは、糟屋もふ本人が開設したアカウントとなります。
