@@ -11,7 +11,7 @@
 - キャラクターデザイン
   - たらら。さん [/qootarara](./qootarara)
 - ロゴ
-  - sorano designさん [/sorano_design](./teltelhousi)
+  - sorano designさん [/sorano_design](./sorano_design)
 - キャラクターイラスト
   - てるてる法師さん [/teltelhousi](./teltelhousi)
   - まおーのナオリオさん [/naorio_maoo_V](./naorio_maoo_V)
