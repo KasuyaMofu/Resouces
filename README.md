@@ -2,17 +2,19 @@
 
 糟屋もふの規約やリソースを配置するリポジトリです。
 
+![2021/04/27 糟屋もふ 3面図](./teltelhousi/20210427_3view.png)
+
 ## イラスト関係
 
 依頼して私のイラストを描いていただいた皆様の紹介と各作品、及びリンクです。
 
-- ロゴ
-  - sorano designさん [Illustrations/sorano_design](Illustrations/teltelhousi)
 - キャラクターデザイン
-  - たらら。さん [Illustrations/qootarara](Illustrations/qootarara)
+  - たらら。さん [/qootarara](./qootarara)
+- ロゴ
+  - sorano designさん [/sorano_design](./teltelhousi)
 - キャラクターイラスト
-  - てるてる法師さん [Illustrations/teltelhousi](Illustrations/teltelhousi)
-  - まおーのナオリオさん [Illustrations/naorio_maoo_V](Illustrations/naorio_maoo_V)
+  - てるてる法師さん [/teltelhousi](./teltelhousi)
+  - まおーのナオリオさん [/naorio_maoo_V](./naorio_maoo_V)
 
 ## 各種アカウント
 
