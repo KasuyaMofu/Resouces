@@ -2,7 +2,7 @@
 
 糟屋もふの規約やリソースを配置するリポジトリです。
 
-![2021/04/27 糟屋もふ 3面図](./teltelhousi/20210427_3view.png)
+[![2021/04/27 糟屋もふ 3面図](./teltelhousi/20210427_3view.png)](https://raw.githubusercontent.com/KasuyaMofu/Resouces/main/teltelhousi/20210427_3view.png)
 
 ## イラスト関係
 
