@@ -20,7 +20,7 @@
   - てるてる法師さん [/teltelhousi](./teltelhousi)
   - まおーのナオリオさん [/naorio_maoo_V](./naorio_maoo_V)
   - 白涙(しろる)さん [/Shiroru46](./Shiroru46)
-
+  - きりみんちゃんさん [/kirimin_chan](./kirimin_chan)
 ## 各種アカウント
 
 以下に記載するものは、糟屋もふ本人が開設したアカウントとなります。
