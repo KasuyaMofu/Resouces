@@ -19,6 +19,7 @@
 - キャラクターイラスト
   - てるてる法師さん [/teltelhousi](./teltelhousi)
   - まおーのナオリオさん [/naorio_maoo_V](./naorio_maoo_V)
+  - 白涙(しろる)さん [/Shiroru46](./Shiroru46)
 
 ## 各種アカウント
 
