@@ -30,7 +30,6 @@
 - YouTube: https://www.youtube.com/channel/UCGUnYeMWpKJKCBcG_ua52lA
 - Twitch: https://www.twitch.tv/kasuyamofu
 - マシュマロ: https://marshmallow-qa.com/kasuyamofu
-
 - AtCoder: https://atcoder.jp/users/KasuyaMofu
 - note: https://note.com/kasuyamofu
 - notion: https://www.notion.so/kasuyamofu/
